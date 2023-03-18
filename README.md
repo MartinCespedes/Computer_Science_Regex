@@ -1,6 +1,6 @@
 ## Link to Github Gist
 
-[GithubGist](https://gist.github.com/MartinCespedes/22bf4c22c1d31e7c7e36f717af1adc2d)
+- [GithubGist](https://gist.github.com/MartinCespedes/22bf4c22c1d31e7c7e36f717af1adc2d)
 
 ## Regex Tutorial
 
